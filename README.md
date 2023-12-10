@@ -81,3 +81,11 @@ pip install python-telegram-bot
 And wait untill the process is finished.
 
 
+Than press `>>> Run` and when you see the following lines inside the console:
+
+```
+Starting Bot...
+Polling...
+```
+
+it means that your Bot is **running** and you can use it on **Telegram**!
