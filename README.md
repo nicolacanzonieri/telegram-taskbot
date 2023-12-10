@@ -56,7 +56,7 @@ At the end you have to remember the:
 - your username (for example `your_username` without the '@')
 
 
-** Remember that Bot Name is different from Bot Username! **
+**Remember that Bot Name is different from Bot Username!**
 
 
 ### Using PythonAnywhere to host your Bot 24/7 for free
@@ -71,4 +71,13 @@ Than create a new file, for example `taskbot.py`
 Once the editor opens, paste the code of `taskbot.py` that you can find by clicking on this file here on GitHub
 
 
-Than click on 
+Than, at the bottom of the page, click on `$ Bash console here` and run the following command:
+
+```
+pip install python-telegram-bot
+```
+
+
+And wait untill the process is finished.
+
+
