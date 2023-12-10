@@ -31,7 +31,7 @@ To show the list of your tasks, send the following message to the bot:
 ```
 
 
-## How can I use this bot?
+## How can I run this bot on Telegram?
 
 
 In the following lines you will be able to run this bot on a server for free!
