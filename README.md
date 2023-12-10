@@ -56,7 +56,19 @@ At the end you have to remember the:
 - your username (for example `your_username` without the '@')
 
 
-### Remember that Bot Name is different from Bot Username!
+** Remember that Bot Name is different from Bot Username! **
 
 
-## Using PythonAnywhere to host your Bot 24/7
+### Using PythonAnywhere to host your Bot 24/7 for free
+
+
+Create an account to [PythonAnywhere](https://www.pythonanywhere.com) and inside your `Dashboard` click on `Files` (top-right edge of the window)
+
+
+Than create a new file, for example `taskbot.py`
+
+
+Once the editor opens, paste the code of `taskbot.py` that you can find by clicking on this file here on GitHub
+
+
+Than click on 
