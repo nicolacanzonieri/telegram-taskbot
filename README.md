@@ -65,13 +65,13 @@ At the end you have to remember the:
 Create an account to [PythonAnywhere](https://www.pythonanywhere.com) and inside your `Dashboard` click on `Files` (top-right edge of the window)
 
 
-Than create a new file, for example `my_taskbot_telegram.py`
+Then create a new file, for example `my_taskbot_telegram.py`
 
 
 Once the editor opens, paste the code of `taskbot.py` that you can find by clicking on this file here on GitHub
 
 
-Than you have to modify the lines 7-8-9-10 with the Bot Token, Bot username, Your username and your name.
+Then you have to modify the lines 7-8-9-10 with the Bot Token, Bot username, Your username and your name.
 
 
 In the end these lines should look more or less like this:
