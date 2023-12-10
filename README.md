@@ -40,7 +40,7 @@ In the following lines you will be able to run this bot on a server for free!
 ### BotFather instructions
 
 
-Open Telegram and search for @BotFather than run the command:
+Open Telegram and search for `@BotFather` than run the command:
 
 ```
 /newbot
