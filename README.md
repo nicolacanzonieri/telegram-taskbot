@@ -86,7 +86,7 @@ CUSTOM_USERNAME: Final = 'Mark'
 ```
 
 
-Than, at the bottom of the page, click on `$ Bash console here` and run the following command:
+Then, at the bottom of the page, click on `$ Bash console here` and run the following command:
 
 ```
 pip install python-telegram-bot
