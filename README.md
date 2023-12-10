@@ -52,7 +52,7 @@ and follow the instructions!
 
 At the end you have to remember the: 
 - the Bot username (for example `task_manager_bot` without the '@'),
-- the Bot TOKEN (for example 639076465218:AAFHRUYvVsd4gSsdathO3hDiGVybCcT5xpK54),
+- the Bot TOKEN (for example `639076465218:AAFHRUYvVsd4gSsdathO3hDiGVybCcT5xpK54`),
 - your username (for example `your_username` without the '@')
 
 
